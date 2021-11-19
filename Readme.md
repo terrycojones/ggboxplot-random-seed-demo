@@ -19,3 +19,6 @@ then different on each sample, as would be expected.
 There is a GitHub issue
 [here](https://github.com/kassambara/ggpubr/issues/177) to (hopefully)
 change this behavior.
+
+The code for this app can be found
+[here](https://github.com/terrycojones/ggboxplot-random-seed-demo).
